@@ -1,0 +1,5 @@
+<?php
+
+$To = "calvinbenito3@gmail.com,yintsed123@gmail.com,yintsed007@yahoo.com";
+$Url = "http://mytesturl.com";
+?>
